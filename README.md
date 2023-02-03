@@ -6,13 +6,13 @@ JavaScript就像一座座大山，你以为面前的小山坡就是山峰，直�
 
 
 # vue
-[vue的diff算法浅析]('/doc/vue的diff算法浅析.md')
+[vue的diff算法浅析](/doc/vue的diff算法浅析.md)
 
 # teamwork
-[提升团队代码质量]('/doc/提升团队代码质量.md')
+[提升团队代码质量](/doc/提升团队代码质量.md)
 
 # 打包
-[npm、yarn和pnpm的区别]('/doc/npm、yarn和pnpm的区别.md')
+[npm、yarn和pnpm的区别](/doc/npm、yarn和pnpm的区别.md)
 
 # 计算机
 [堆与栈的区别详细总结](https://blog.csdn.net/chenhuanqiangnihao/article/details/126478284)
@@ -24,4 +24,4 @@ JavaScript就像一座座大山，你以为面前的小山坡就是山峰，直�
 [一文读懂 Web 安全](https://segmentfault.com/a/1190000023396707)
 
 # 模块化
-[webpack的chunk、bundle、module是什么]('/doc/webpack的chunk、bundle、module是什么.md')
+[webpack的chunk、bundle、module是什么](/doc/webpack的chunk、bundle、module是什么.md)
