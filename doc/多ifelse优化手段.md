@@ -1,6 +1,6 @@
 原
 
-```
+``` javascript
 function getUserDescribe(name) {
     let str; // 存储判断结果
     if (name.length > 3) {
@@ -24,7 +24,7 @@ function getUserDescribe(name) {
 ```
 
 优化后
-```
+``` javascript
 const describeForNameMap = [
     [(name) => name.length > 3, () => "名字太长"],
     [(name) => name.length < 2, () => "名字太短"],
